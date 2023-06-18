@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14e213bb1eb4a94ca23510083be1472, type: 3}
+  m_Name: Trap
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 2099055159055310883, guid: b37ff670c0510e24e9ddb59d540bc5ab, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: e773ed27468ef8843b57df1f27f05388, type: 3}
+  itemName: Rabbit Trap
+  properties: It produces food from time to time
+  itemType: 2
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: 17be0d92684b21f45a41ff7202ae507c, type: 2}
+  - {fileID: 11400000, guid: f1da15d302c638a488ddf6d33c815c44, type: 2}
+  needAmountToCrafting: 0800000004000000
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  sellValue: 8
+  buyValue: 16
+  interactItem: {fileID: 1560077283201032636, guid: 402fa8c512cb1ec4d9e4a2b661bb50c2, type: 3}
+  positionOffset: 1.2

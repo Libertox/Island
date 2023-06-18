@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e5d6e672131966418c06477c1792ec7, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: -3694533877916086887, guid: 24406690417ca244f978c3b8a549648c, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: d8f4cb9d32e704f41b2f117c754d1eb1, type: 3}
+  itemName: Key
+  properties: You can locked chest
+  itemType: 2
+  maxStrength: 0
+  useCooldown: 1
+  armor: 0
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: 122834cfecba55b4d9f62e177948ee37, type: 2}
+  - {fileID: 11400000, guid: a501ec64c40e9a74fae36002bec6c103, type: 2}
+  needAmountToCrafting: 0100000001000000
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  sellValue: 10
+  buyValue: 17

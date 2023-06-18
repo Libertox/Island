@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e6fd19e2bd3e5479401711d5c13236, type: 3}
+  m_Name: PrefabLists
+  m_EditorClassIdentifier: 
+  anvilPrefab: {fileID: 6970951418280683319, guid: ce3a6c3cb1db2ae4db0c4a3a9ec64206, type: 3}
+  campfirePrefab: {fileID: 5560471057312647355, guid: 04aa5a245e3272442bde6f807c73ba83, type: 3}
+  furnacePrefab: {fileID: -7414925292296173666, guid: 278c995336249284bbde9ff67404fadd, type: 3}
+  chestPrefab: {fileID: -3744593016918615781, guid: 3c3c80fd983a2624495d29e09c77a854, type: 3}
+  tentPrefab: {fileID: 2055706713771482616, guid: 162c1e263194d5a429ecfc7c02eb5440, type: 3}
+  trapPrefab: {fileID: 1560077283201032636, guid: 402fa8c512cb1ec4d9e4a2b661bb50c2, type: 3}
+  plantPrefab: {fileID: -3027346409982432131, guid: 92f65c0645ae251479773725dc73be7f, type: 3}
+  treePrefab: {fileID: 5272225280441538022, guid: f7ccf185596d02a43975a580661187e9, type: 3}
+  boatPrefab: {fileID: 8531480041627952753, guid: f1af79dd70e468c4cb7d31c0effafb89, type: 3}
+  signPrefab: {fileID: 1903758730693032907, guid: 27cbc03b6c65c7b42b5de1e090f58a77, type: 3}
+  merchantPrefab: {fileID: 838405134399036410, guid: d97fa133db2b9f2488778d179fc88c45, type: 3}

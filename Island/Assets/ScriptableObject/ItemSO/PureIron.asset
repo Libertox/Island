@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611f812926736cd4c96fc760ae0f40ca, type: 3}
+  m_Name: PureIron
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: -4854364996339111278, guid: d551f205ca1c20445b56f46be3885d34, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: b6788f81fd241ba4689d4719c9beed88, type: 3}
+  itemName: PureIron
+  properties: 
+  itemType: 34
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  cookFood: {fileID: 11400000, guid: 122834cfecba55b4d9f62e177948ee37, type: 2}
+  burnSpeed: 0
+  cookingTime: 40
+  sellValue: 8
+  buyValue: 16
+  needIngredientsToCrafting: []
+  needAmountToCrafting: 
+  useAudioClip: {fileID: 0}

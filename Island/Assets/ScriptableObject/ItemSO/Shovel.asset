@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8855297b27a57442a99e9cde727edd3, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: -7855203551248514480, guid: 24406690417ca244f978c3b8a549648c, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: a6fafe0081a368f4694236e5662c39c7, type: 3}
+  itemName: Shovel
+  properties: You can create place for plant
+  itemType: 4102
+  maxStrength: 60
+  useCooldown: 1
+  armor: 0
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  cookingTime: 0
+  sellValue: 2
+  buyValue: 10
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: 3242d36a0c09670498d6b6062539e1fe, type: 2}
+  - {fileID: 11400000, guid: 70823b5d038280541a8c17eeaaaa3d49, type: 2}
+  needAmountToCrafting: 0200000002000000
+  useAudioClip: {fileID: 0}
+  spaceForPlantPrefab: {fileID: -3027346409982432131, guid: 92f65c0645ae251479773725dc73be7f, type: 3}
+  positionOffset: 1.2

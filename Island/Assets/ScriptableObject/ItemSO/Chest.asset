@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14e213bb1eb4a94ca23510083be1472, type: 3}
+  m_Name: Chest
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 448825214011967657, guid: 7c773901d3cd80548ae33e844904e1c3, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: 1fe9e299425c84e419a5feb7f6523e66, type: 3}
+  itemName: Chest
+  properties: You can hide your items
+  itemType: 2
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: 17be0d92684b21f45a41ff7202ae507c, type: 2}
+  - {fileID: 11400000, guid: 70823b5d038280541a8c17eeaaaa3d49, type: 2}
+  needAmountToCrafting: 0500000005000000
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  sellValue: 7
+  buyValue: 16
+  interactItem: {fileID: -3744593016918615781, guid: 3c3c80fd983a2624495d29e09c77a854, type: 3}
+  positionOffset: 1.2

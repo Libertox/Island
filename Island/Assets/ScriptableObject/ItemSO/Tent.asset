@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14e213bb1eb4a94ca23510083be1472, type: 3}
+  m_Name: Tent
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 8183813395363802034, guid: 50ac7ce160504d746a9aea95308ff588, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: 3090c74efb552f94191dff783e41a4a1, type: 3}
+  itemName: Tent
+  properties: You can regenerate tiredness
+  itemType: 2
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: 3242d36a0c09670498d6b6062539e1fe, type: 2}
+  - {fileID: 11400000, guid: 46915e33dc0d9974494701e9ff6bc229, type: 2}
+  needAmountToCrafting: 0700000003000000
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  sellValue: 6
+  buyValue: 25
+  interactItem: {fileID: 2055706713771482616, guid: 162c1e263194d5a429ecfc7c02eb5440, type: 3}
+  positionOffset: 2.5

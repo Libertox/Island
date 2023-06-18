@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14e213bb1eb4a94ca23510083be1472, type: 3}
+  m_Name: Campfire
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 4268471932424394617, guid: 9b0f6c0d4e0a48b4b9277da6a18d29a9, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: 7e01d0c38007d334d9f7487bd209c317, type: 3}
+  itemName: Campfire
+  properties: You can cook food
+  itemType: 2
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: 17be0d92684b21f45a41ff7202ae507c, type: 2}
+  - {fileID: 11400000, guid: 70823b5d038280541a8c17eeaaaa3d49, type: 2}
+  needAmountToCrafting: 0400000004000000
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  sellValue: 13
+  buyValue: 25
+  interactItem: {fileID: 5560471057312647355, guid: 04aa5a245e3272442bde6f807c73ba83, type: 3}
+  positionOffset: 1.2

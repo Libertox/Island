@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611f812926736cd4c96fc760ae0f40ca, type: 3}
+  m_Name: PureGold
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 2853566978608143057, guid: d551f205ca1c20445b56f46be3885d34, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: 2fbce56b492f149419ac137b21f55ac9, type: 3}
+  itemName: PureGold
+  properties: 
+  itemType: 34
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  cookFood: {fileID: 11400000, guid: a501ec64c40e9a74fae36002bec6c103, type: 2}
+  burnSpeed: 0
+  cookingTime: 80
+  sellValue: 7
+  buyValue: 15
+  needIngredientsToCrafting: []
+  needAmountToCrafting: 
+  useAudioClip: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b53a3844f4185c43947c8f889dfd81e, type: 3}
+  m_Name: Spider
+  m_EditorClassIdentifier: 
+  maxHealth: 15
+  damage: 4
+  radiusRange: 6
+  playerLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
+  attackCooldown: 3
+  deadEffect: {fileID: 1887350151338714506, guid: 15044797c3ea9f84f8dfdcec810ac59d, type: 3}
+  spawnedItem:
+  - {fileID: 11400000, guid: e66abdc969998054fa0f738a3a85aa1e, type: 2}
+  audioClip: {fileID: 8300000, guid: 445c805f795e0784b9a3027a85f0556e, type: 3}

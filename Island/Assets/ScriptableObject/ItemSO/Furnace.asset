@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a14e213bb1eb4a94ca23510083be1472, type: 3}
+  m_Name: Furnace
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 2580186581647319791, guid: 96b9c8b999600394b8972993ce099630, type: 3}
+  itemPrefab: {fileID: 282637437044347637, guid: cd6c40b74d1f5ce4799d4c06cd02746d, type: 3}
+  itemName: Furnace
+  properties: You can cook food and burn through materials
+  itemType: 2
+  maxStrength: 0
+  useCooldown: 0
+  armor: 0
+  needIngredientsToCrafting:
+  - {fileID: 11400000, guid: d21cf1a600c57c446ab6c4581352eb13, type: 2}
+  - {fileID: 11400000, guid: 70823b5d038280541a8c17eeaaaa3d49, type: 2}
+  needAmountToCrafting: 050000000a000000
+  cookFood: {fileID: 0}
+  burnSpeed: 0
+  sellValue: 9
+  buyValue: 18
+  interactItem: {fileID: -7414925292296173666, guid: 278c995336249284bbde9ff67404fadd, type: 3}
+  positionOffset: 1.7
