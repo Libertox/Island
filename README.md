@@ -1,4 +1,4 @@
-![alt-text](Island/Assets/Sprite/Screens/Icon.png)
+![Logo](Island/Assets/Sprite/Screens/Icon.png)
 
 Island is an exciting survival game. Stranded on a remote island, you must gather resources, and construct a thriving base while venturing out to explore neighboring islands for valuable treasures and new discoveries.
 
@@ -9,7 +9,7 @@ Island is an exciting survival game. Stranded on a remote island, you must gathe
 ## Inventory System
 A key feature in survival games is the ability to manage and organize your resources and items. Players have an inventory where they can store and carry various items they gather or craft throughout the game.
   
-![alt-text](Island/Assets/Sprite/Screens/Inventory_screen.png)
+![App Screenshot](Island/Assets/Sprite/Screens/Inventory_screen.png)
   
 ## Crafting System
 Crafting is a core aspect of survival games. Players gather resources from the environment and use them to create new items, tools, weapons, or equipment. 
